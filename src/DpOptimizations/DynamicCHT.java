@@ -5,6 +5,10 @@ import java.util.TreeSet;
 
 class DynamicCHT {
 
+	// Minimum dynamic convex hull
+	// tested 
+	// for max reverse sorting and change add function
+	
 	static class Line implements Comparable<Line> {
 		long m;
 		long c;
